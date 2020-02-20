@@ -37,14 +37,6 @@
             <scope>system</scope>
             <systemPath>${Steam.path}/workshop/content/646570/1605833019/BaseMod.jar</systemPath>
         </dependency>
-        <dependency>
-            <groupId>com.evacipated.cardcrawl.mod</groupId>
-            <artifactId>StSLib</artifactId>
-            <version>1.17.0</version>
-            <scope>system</scope>
-            <systemPath>${Steam.path}/workshop/content/646570/1609158507/StSLib.jar</systemPath>
-            <!--<systemPath>${basedir}/../lib/StSLib.jar</systemPath>-->
-        </dependency>
     </dependencies>
 
 
